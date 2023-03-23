@@ -1,4 +1,4 @@
-package encapsulationex;
+package equals;
 
 public class EqualsEx {
 	public static void main(String[] args) {
